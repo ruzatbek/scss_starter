@@ -1,7 +1,7 @@
 {
     "liveSassCompile.settings.formats": [
         {
-            "format": "expanded",
+            "format": "expended", // compressed || expended
             "extensionName": ".css",
             "savePath": "/css"
         }
